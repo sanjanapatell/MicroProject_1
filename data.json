@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Vintage Phonograph",
+        "description": "An antique phonograph from the early 1900s, in working condition.",
+        "price": 500,
+        "image": "vintage-phonograph.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Antique Pocket Watch",
+        "description": "A beautiful pocket watch made in the 1800s, still keeps time accurately.",
+        "price": 300,
+        "image": "antique-pocket-watch.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Victorian Chair",
+        "description": "A stunning Victorian-era chair with intricate carvings and upholstery.",
+        "price": 600,
+        "image": "victorian-chair.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Art Deco Lamp",
+        "description": "An elegant Art Deco lamp with a frosted glass shade, circa 1920s.",
+        "price": 250,
+        "image": "art-deco-lamp.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Vintage Typewriter",
+        "description": "A classic typewriter from the mid-20th century, still functional.",
+        "price": 400,
+        "image": "vintage-typewriter.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Retro Radio",
+        "description": "A retro-style radio from the 1950s, with a warm, nostalgic sound.",
+        "price": 150,
+        "image": "retro-radio.jpg"
+    }
+]
